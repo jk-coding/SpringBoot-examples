@@ -1,6 +1,6 @@
 # SpringBoot-examples
 
-The repository contains a couple of simple services based on SpringBoot.
+The repository contains a couple of simple services based on Spring Boot.
 - get, post, put, delete operations
 - Swagger support
-- accessing PostgreSQL database
+- Spring Data JPA and PostgreSQL database
