@@ -1,3 +1,3 @@
 # SpringBoot-examples
 
-The rpository contains a couple of simple services based on SpringBoot.
+The repository contains a couple of simple services based on SpringBoot.
